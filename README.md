@@ -2,7 +2,7 @@
 
 このPythonスクリプトは 決定木 vs LightGBM 精度差を実装しています。
 
-👉 [pyファイルはこちら] (https://github.com/iwakazusuwa/py_tree_LightGBM/tree/main)
+👉 [pyファイルはこちら](https://github.com/iwakazusuwa/py_tree_LightGBM/tree/main)
 
 詳しい使い方や解説は以下の記事をご覧ください。
 
